@@ -1,2 +1,11 @@
 # app-dev
 My first repository
+- Add info about favorite series
+- batang quiapo
+- ```
+{
+  "firstName": "Coco",
+  "lastName": "Martin",
+  "age": 43
+}
+```
